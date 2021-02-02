@@ -51,6 +51,8 @@ As I examined the data, I wanted to create some graphs in Pandas to better tell 
 This is what I found:
 ![image2](Histogram_of_Salary.png)
 
+This chart demonstarates how average salary is skewed to the right, which means that the average salary is less than the median salary. 
+
 Also, I wanted to visualize average salary by title in a bar chart: 
 
 ![image3](Bar_Chart.png)
