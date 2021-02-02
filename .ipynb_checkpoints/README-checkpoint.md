@@ -1,4 +1,4 @@
-# SQL-Challenge
+# SQL Challenge
 
 ## Data Modeling
 I was hiven 6 different CSV files, which I inspected to find out the relationship between each CSV files and sketchd out an ERD of the tables by using a tool like http://www.quickdatabasediagrams.com.
@@ -54,6 +54,8 @@ This is what I found:
 Also, I wanted to visualize average salary by title in a bar chart: 
 
 ![image3](Bar_Chart.png)
+
+As you can see, sales department, marketing and finace departments are the top three departments with the highest average salary.  
 
 
 
