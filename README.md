@@ -25,9 +25,13 @@ Once I have a complete database, I did the following:
 
 ![image6](Screenshots/3Query.png)
 
-List the department of each employee with the following information: employee number, last name, first name, and department name.
+4. List the department of each employee with the following information: employee number, last name, first name, and department name.
 
-List first name, last name, and sex for employees whose first name is "Hercules" and last names begin with "B."
+![image7](Screenshots/4Query.png)
+
+5. List first name, last name, and sex for employees whose first name is "Hercules" and last names begin with "B."
+
+![image8](Screenshots/5Query.png)
 
 List all employees in the Sales department, including their employee number, last name, first name, and department name.
 
