@@ -21,7 +21,9 @@ Once I have a complete database, I did the following:
 
 ![image5](Screenshots/2Query.png)
 
-List the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name.
+3. List the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name.
+
+![image6](Screenshots/3Query.png)
 
 List the department of each employee with the following information: employee number, last name, first name, and department name.
 
