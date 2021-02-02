@@ -34,7 +34,11 @@ In descending order, list the frequency count of employee last names, i.e., how 
 
 As I examined the data, I wanted to create some graphs in Pandas to better tell the story. I decided to create a histogram to visualize the most common salary ranges for employees.
 This is what I found:
-![image2](Histogram of Salary.png)
+![image2](Histogram_of_Salary.png)
 
-Create a bar chart of average salary by title.
+Also, I wanted to visualize average salary by title in a bar chart: 
+
+![image3](Bar_Chart.png)
+
+
 
