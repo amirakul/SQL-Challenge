@@ -11,11 +11,15 @@ This is how the schema map looks like, in which I specified data types, primary 
 
 ## Data Analysis
 
-Once you have a complete database, do the following:
+Once I have a complete database, I did the following:
 
-List the following details of each employee: employee number, last name, first name, sex, and salary.
+1. List the following details of each employee: employee number, last name, first name, sex, and salary.
 
-List first name, last name, and hire date for employees who were hired in 1986.
+![image4](Screenshots/1Query.png)
+
+2. List first name, last name, and hire date for employees who were hired in 1986.
+
+![image5](Screenshots/2Query.png)
 
 List the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name.
 

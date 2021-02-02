@@ -15,9 +15,11 @@ Once I have a complete database, I did the following:
 
 1. List the following details of each employee: employee number, last name, first name, sex, and salary.
 
-![image4](1Query.png)
+![image4](Screenshots/1Query.png)
 
-List first name, last name, and hire date for employees who were hired in 1986.
+2. List first name, last name, and hire date for employees who were hired in 1986.
+
+![image5](Screenshots/2Query.png)
 
 List the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name.
 
