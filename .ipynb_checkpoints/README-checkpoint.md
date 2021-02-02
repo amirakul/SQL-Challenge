@@ -57,7 +57,7 @@ Also, I wanted to visualize average salary by title in a bar chart:
 
 ![image3](Bar_Chart.png)
 
-From the above graph, it's observable that Sales, Marketing and Finance departments are the top three departments with the highest average salary.  
+From the above graph, it's observable that Sales, Marketing and Finance departments are the top three departments that have the highest average salary.  
 
 
 
