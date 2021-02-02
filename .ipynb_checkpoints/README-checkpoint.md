@@ -33,7 +33,9 @@ Once I have a complete database, I did the following:
 
 ![image8](Screenshots/5Query.png)
 
-List all employees in the Sales department, including their employee number, last name, first name, and department name.
+6. List all employees in the Sales department, including their employee number, last name, first name, and department name.
+
+![image9](Screenshots/6Query.png)
 
 List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
 
