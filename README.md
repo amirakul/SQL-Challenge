@@ -1,7 +1,11 @@
 # SQL-Challenge
-Instructions
-Data Modeling
-Inspect the CSVs and sketch out an ERD of the tables. Feel free to use a tool like http://www.quickdatabasediagrams.com.
+
+## Data Modeling
+I was hiven 6 different CSV files, which I inspected to find out the relationship between each CSV files and sketchd out an ERD of the tables by using a tool like http://www.quickdatabasediagrams.com.
+
+This is how the schema map looks like:
+
+![image1](SchemaMap.png)
 
 Data Engineering
 Use the information you have to create a table schema for each of the six CSV files. Remember to specify data types, primary keys, foreign keys, and other constraints.
